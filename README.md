@@ -4,7 +4,7 @@
 [2023 International BCI meeting](https://bcisociety.org/bci-meeting/)
 
 
-Workshop W13 Session 2 - Thursday, June 8, 9:30am- 12:30pm (Sonian Forest Time) 
+Workshop W13 Session 2 - Thursday, June 8, 9:30am- 12:30pm (Sonian Forest Time) - room Imbuia
 
 ## Organizers:
 - [Fabrizio De Vico Fallani](https://sites.google.com/site/devicofallanifabrizio/): Inria Research Director, Inria Paris, Aramis project-team, Paris Brain Institute

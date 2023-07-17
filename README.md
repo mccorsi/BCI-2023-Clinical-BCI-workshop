@@ -9,7 +9,7 @@ Workshop W13 Session 2 - Thursday, June 8, 9:30am- 12:30pm (Sonian Forest Time) 
 ## Organizers:
 - [Fabrizio De Vico Fallani](https://sites.google.com/site/devicofallanifabrizio/): Inria Research Director, Inria Paris, Aramis project-team, Paris Brain Institute
 - [Nathalie George](https://scholar.google.com/citations?user=x5NORzMAAAAJ&hl=en): CNRS Research Director, Experimental Neurosurgery team, Paris Brain Institute
-- [Camille Jeunet](https://camillejeunet.fr/): CNRS Research Scientist, INCIA, Univ. Bordeaux & CNRS, France
+- [Camille Jeunet-Kelway](https://camillejeunet.fr/): CNRS Research Scientist, INCIA, Univ. Bordeaux & CNRS, France
 - [Fabien Lotte](https://sites.google.com/site/fabienlotte/): Inria Research Director, Inria Bordeaux Sud-Ouest / LaBRI, Potioc team
 - [Marie-Constance Corsi](https://marieconstance-corsi.netlify.app/): Inria Research Scientist, Inria Paris, Aramis project-team, Paris Brain Institute
 

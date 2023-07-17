@@ -15,12 +15,11 @@ Workshop W13 Session 2 - Thursday, June 8, 9:30am- 12:30pm (Sonian Forest Time) 
 
 
 ## Abstract
-BCI-based neurofeedback (NFB) is a promising tool for counteracting neurological symptoms and informing neurorehabilitation strategies. Efforts have been made to improve BCI usability, by providing guidelines and predictors of performance. Yet, neurofeedback remains barely used in clinical settings and by patients in their daily life. In this workshop, we will tackle the current challenges in clinical BCI research by identifying and discussing the key methodological and psychobiological aspects to foster its efficacy.  We will deal with conceptual biases in clinical protocol designs. 
-The workshop will be split into two parts. In the first part, the foremost clinical applications of BCIs/NFBs will be presented with a focus on the key issues that need to be addressed (e.g.: instructions, number of sessions, lesion localization…). The second part will be dedicated to recommendations when designing and conducting BCI/NFB clinical protocols. Each block will be followed by a panel discussion formed by the speakers, and discussions will be guided by a selection of pre-arranged questions. We will propose to the participants to fill a document with their questions beforehand in order to structure the discussions in direct line with the challenges faced by the community.
+BCI-based neurofeedback (NFB) is a promising tool for counteracting neurological symptoms and informing neurorehabilitation strategies. Efforts have been made to improve BCI usability, by providing guidelines and predictors of performance. Yet, neurofeedback remains barely used in clinical settings and by patients in their daily life. In this workshop, we tackled the current challenges in clinical BCI research by identifying and discussing the key methodological and psychobiological aspects to foster its efficacy. We dealt with conceptual biases in clinical protocol designs. For this purpose, the workshop has been splitted into two parts. In the first part, the foremost clinical applications of BCIs/NFBs were presented with a focus on the key issues that need to be addressed (e.g.: instructions, number of sessions, lesion localization…). The second part was dedicated to recommendations when designing and conducting BCI/NFB clinical protocols.
 
 
 ## Intended audience
-This workshop will intend to gather all the persons interested in clinical applications of BCI/NFB - including clinicians, researchers from different fields and industrials. We aim at establishing a lively dialogue between them.
+This workshop intended to gather all the persons interested in clinical applications of BCI/NFB - including clinicians, researchers from different fields and industrials. We aim at establishing a lively dialogue between them.
 
 
 ## Learning objectives
